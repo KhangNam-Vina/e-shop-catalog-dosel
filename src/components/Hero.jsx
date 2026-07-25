@@ -72,7 +72,7 @@ export default function Hero() {
             <div className="lg:col-span-5 flex justify-center">
               <div className="relative w-full max-w-md sm:max-w-lg aspect-[4/3] sm:aspect-square rounded-3xl overflow-hidden bg-white shadow-xl border border-gray-100 p-4">
                 <img
-                  src="/images/products/SP-01.jpg"
+                  src="/images/products/dosel.jpg"
                   alt="KhangNam Vina Banner"
                   // Đã đổi object-cover thành object-contain ở dòng dưới này:
                   className="w-full h-full object-contain rounded-2xl"
