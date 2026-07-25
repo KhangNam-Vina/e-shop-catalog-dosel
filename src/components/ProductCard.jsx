@@ -53,6 +53,7 @@ export default function ProductCard({ product, onViewDetail }) {
           <img 
             src={imageList[currentIndex]} 
             alt={product.name} 
+            loading="lazy"
             className="w-full h-full object-contain p-4 transition-transform duration-500"
             onError={(e) => {
               e.target.src = "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&w=600&auto=format&fit=crop";

@@ -91,7 +91,7 @@ export default function ProductModal({ product, onClose }) {
               <img 
                 src={imageList[currentIndex]} 
                 alt={product.name} 
-                // Xóa scale hover mặc định của Tailwind, dùng style động của React
+                loading="lazy"
                 className="w-full h-full object-contain p-4 transition-transform duration-150 ease-out" 
                 style={{
                   transform: isZoomed ? 'scale(2.5)' : 'scale(1)', // Phóng to 2.5 lần khi đưa chuột vào
