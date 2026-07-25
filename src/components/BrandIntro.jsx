@@ -41,9 +41,9 @@ export default function BrandIntro() {
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
               <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent z-10"></div>
               <img 
-                src="public/images/banner/1.jpg" 
+                src="/images/logo/logo_e-shop.jpg" 
                 alt="About us" 
-                className="w-full h-[300px] sm:h-[400px] object-cover transform hover:scale-105 transition-transform duration-700"
+                className="w-full h-[525px] sm:h-[525px] object-cover transform hover:scale-105 transition-transform duration-700"
                 onError={(e) => {
                   e.target.src = "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?q=80&w=800&auto=format&fit=crop";
                 }}
