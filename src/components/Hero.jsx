@@ -68,17 +68,18 @@ export default function Hero() {
             </div>
           </div>
 
-          {/* Cột bên phải: Ảnh minh họa (Banner chính) */}
-            <div className="lg:col-span-5 flex justify-center">
-              <div className="relative w-full max-w-md sm:max-w-lg aspect-[4/3] sm:aspect-square rounded-3xl overflow-hidden bg-white shadow-xl border border-gray-100 p-4">
-                <img
-                  src="/images/products/dosel.jpg"
-                  alt="KhangNam Vina Banner"
-                  // Đã đổi object-cover thành object-contain ở dòng dưới này:
-                  className="w-full h-full object-contain rounded-2xl"
-                />
-              </div>
+                    {/* Cột bên phải: Ảnh minh họa (Banner chính) */}
+          <div className="lg:col-span-5 flex justify-center items-center">
+            {/* TUI ĐÃ XÓA aspect-[4/3] và sm:aspect-square ĐỂ KHUNG TỰ DO CO GIÃN */}
+            <div className="relative w-full max-w-md sm:max-w-lg rounded-3xl overflow-hidden bg-white shadow-xl border border-gray-100 p-4 flex">
+              <img
+                src="/images/products/dosel.jpg"
+                alt="KhangNam Vina Banner"
+                // TUI ĐÃ ĐỔI h-full THÀNH h-auto ĐỂ CHIỀU CAO ẢNH TỰ ĐỘNG CHẠY THEO TỶ LỆ GỐC
+                className="w-full h-auto object-contain rounded-2xl"
+              />
             </div>
+          </div>
 
         </div>
       </div>

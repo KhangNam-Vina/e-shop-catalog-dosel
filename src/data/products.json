@@ -1,7 +1,7 @@
 [
   {
-    "id": "PDP2104",
-    "name": "Phích Cắm Điện Dosel Hàn Quốc | PDP2104",
+    "id": "PD2104",
+    "name": "Phích Cắm Điện Dosel Hàn Quốc | DP2104",
     "category": "Phích Cắm",
     "images": [
       "/images/products/phichcam/PDP2104/(1).png",
@@ -19,8 +19,8 @@
     ]
   },
   {
-    "id": "PDP2105",
-    "name": "Phích Cắm Điện Dosel Hàn Quốc | PDP2105",
+    "id": "DP2105",
+    "name": "Phích Cắm Điện Dosel Hàn Quốc | DP2105",
     "category": "Phích Cắm",
     "images": [ 
       "/images/products/phichcam/PDP2105/(1).png",
@@ -39,13 +39,13 @@
   }, 
   {
     "id": "DM2104",
-    "name": "Phích Cắm Điện Dosel Hàn Quốc | Dm2104",
+    "name": "Phích Cắm Điện Dosel Hàn Quốc | DM2104",
     "category": "Phích Cắm",
     "images": [
       "/images/products/phichcam/DM2104/(1).png",
       "/images/products/phichcam/DM2104/2.png"
     ],
-    "size": "",
+    "size": "1 Hộp 10 cái",
     "material": "Nhựa ABS cao cấp",
     "colors": ["Trắng sáng"],
     "description": "Thiết kế của phích cắm điện Dosel rất tiện lợi khi chia thành 3 ổ cắm âm sâu, giúp ôm chặt phích cắm hơn.",
@@ -95,8 +95,8 @@
     ]
   }, 
   {
-    "id": "ODC1210",
-    "name": "Ổ Cắm Điện Đơn Nổi Dosel Hàn Quốc | ODC1210",
+    "id": "DC1210",
+    "name": "Ổ Cắm Điện Đơn Nổi Dosel Hàn Quốc | DC1210",
     "category": "Ổ Cắm Điện Nổi",
     "images": [
       "/images/products/noi/ODC1210/1.png",
@@ -134,7 +134,7 @@
   }, 
   {
     "id": "DLC2218-1",
-    "name": "Đế Ổ Cắm Điện Âm Tường 2 Ổ | DLC-2218-1",
+    "name": "Đế Ổ Cắm Điện Âm Tường 2 Ổ | DLC2218-1",
     "category": "Ổ Cắm Điện Âm Tường",
     "images": [
       "/images/products/amtuong/DLC-2218-1/1.png",
@@ -209,7 +209,7 @@
   }, 
    {
     "id": "ODM2217",
-    "name": "Ổ Cắm Điện Dosel 4 Lỗ 1 Công Tắc | 1.5M, 3M | ODM2217",
+    "name": "Ổ Cắm Điện Dosel 4 Lỗ 1 Công Tắc | 1.5M, 3M, 5M | ODM2217",
     "category": "Ổ Cắm Điện Có Dây",
     "images": [
       "/images/products/ocamcoday/ODM2217/1.png"
@@ -225,8 +225,8 @@
     ]
   }, 
   {
-    "id": "PVN564",
-    "name": "Ổ Cắm Điện Dosel 5 Lỗ 1 Công Tắc | 3M, 5M | PVN564",
+    "id": "MD2218",
+    "name": "Ổ Cắm Điện Dosel 5 Lỗ 1 Công Tắc | 1.5M, 3M, 5M | MD2218",
     "category": "Ổ Cắm Điện Có Dây",
     "images": [
       "/images/products/ocamcoday/PVN564/1.png",
@@ -251,7 +251,7 @@
     "images": [
       "/images/products/ocamcoday/ODM2219/1.png"
     ],
-    "size": "Kích thước 32,1 x 5 x 4 cm - Chiều dài dây: 3m | 5m - Chịu tải: 250V-16Am",
+    "size": "Kích thước 32,1 x 5 x 4 cm - Chiều dài dây: 1.5M | 3m | 5m - Chịu tải: 250V-16A",
     "material": "Nhựa ABS cao cấp",
     "colors": ["Trắng sáng"],
      "description": "Ổ cắm điện là thiết bị không chỉ phổ biến trong các hộ gia đình mà còn rất cần thiết tại văn phòng",
@@ -263,13 +263,13 @@
   }, 
   {
     "id": "ODM2224",
-    "name": "Ổ Cắm Điện Dosel 3 Lỗ 3 Công Tắc | 3M | ODM2224",
+    "name": "Ổ Cắm Điện Dosel 3 Lỗ 3 Công Tắc | 5M | ODM2224",
     "category": "Ổ Cắm Điện Có Dây",
     "images": [
      "/images/products/ocamcoday/ODM2224/1.png"
     ],
-    "size": "Kích thước 26 x 7 x 4 cm - Loại ổ cắm: 3 lỗ 3 công tắc - Chiều dài dây: 3m - Chịu tải: 250V-16Am",
-    "material": "Nhựa ABS cao cấp",
+    "size": "Kích thước 26 x 7 x 4 cm - Loại ổ cắm: 3 lỗ 3 công tắc - Chiều dài dây: 5m - Chịu tải: 250V-16A",
+    "material": "Nhựa ABS cao cấp", 
     "colors": ["Trắng sáng"],
      "description": "Ổ cắm điện là thiết bị không chỉ phổ biến trong các hộ gia đình mà còn rất cần thiết tại văn phòng",
     "features": [
@@ -280,13 +280,13 @@
   }, 
   {
     "id": "ODM2221",
-    "name": "Ổ Cắm Điện Dosel 4 Lỗ 5 Công Tắc | 3M, 5M | ODM2221",
+    "name": "Ổ Cắm Điện Dosel 4 Lỗ 5 Công Tắc | 1.5M, 3M, 5M | ODM2221",
     "category": "Ổ Cắm Điện Có Dây",
     "images": [
       "/images/products/ocamcoday/ODM2221/2.png",
       "/images/products/ocamcoday/ODM2221/3.png"
     ],
-    "size": "Kích thước 23,6 x 7,4 x 4 cm - Loại ổ cắm: 4 lỗ 5 công tắc - Chiều dài dây: 3m | 5m - Chịu tải: 250V-16A",
+    "size": "Kích thước 23,6 x 7,4 x 4 cm - Loại ổ cắm: 4 lỗ 5 công tắc - Chiều dài dây: 1.5m | 3m | 5m - Chịu tải: 250V-16A",
     "material": "Nhựa ABS cao cấp",
     "colors": ["Trắng sáng"],
     "description": "Ổ cắm điện là thiết bị không chỉ phổ biến trong các hộ gia đình mà còn rất cần thiết tại văn phòng",
@@ -298,12 +298,12 @@
   }, 
   {
     "id": "ODM2225",
-    "name": "Ổ Cắm Điện Dosel 5 Lỗ 6 Công Tắc | 3M, 5M | ODM2225",
+    "name": "Ổ Cắm Điện Dosel 5 Lỗ 6 Công Tắc | 1.5M, 3M, 5M | ODM2225",
     "category": "Ổ Cắm Điện Có Dây",
     "images": [
       "/images/products/ocamcoday/ODM2225/1.png"
     ],
-    "size": "Kích thước 27,5 x 7,2 x 4 cm - Loại ổ cắm: 5 lỗ 6 công tắc - Chiều dài dây: 3m | 5m - Chịu tải: 250V-16A",
+    "size": "Kích thước 27,5 x 7,2 x 4 cm - Loại ổ cắm: 5 lỗ 6 công tắc - Chiều dài dây: 1.5m | 3m | 5m - Chịu tải: 250V-16A",
     "material": "Nhựa ABS cao cấp",
     "colors": ["Trắng sáng"],
     "description": "Ổ cắm điện là thiết bị không chỉ phổ biến trong các hộ gia đình mà còn rất cần thiết tại văn phòng",
@@ -391,17 +391,15 @@
     "images": [
       "/images/products/amtuong/DC2220/1.png"
     ],
-    "size": "Kích thước 120 x 70 mm | Hộp 10 cái",
     "material": "Nhựa ABS cao cấp",
     "colors": ["Trắng sáng"],
-    "description": "Công tắc điện Dosel sở hữu thiết kế hiện đại, phù hợp với mọi phong cách nội thất",
+    "description": "Lỗi ổ cắm điện Dosel sở hữu thiết kế hiện đại, phù hợp với mọi phong cách nội thất",
     "features": [
-      "Được chế tạo từ vật liệu chất lượng cao, công tắc điện Dosel có khả năng chịu nhiệt và chống cháy tốt",
-      "Công tắc điện Dosel giúp bạn dễ dàng kiểm soát các thiết bị điện trong nhà, từ đèn chiếu sáng, quạt, điều hòa",
+      "Được chế tạo từ vật liệu chất lượng cao, lỗi ổ cắm điện Dosel có khả năng chịu nhiệt và chống cháy tốt",
+      "Lỗi ổ cắm điện Dosel giúp bạn dễ dàng kiểm soát các thiết bị điện trong nhà, từ đèn chiếu sáng, quạt, điều hòa",
       "Lựa chọn lý tưởng cho các văn phòng, nhà xưởng và cơ sở kinh doanh, công tắc điện Dosel giúp tối ưu hóa việc quản lý điện năng"
     ]
   },
-  
 {
     "id": "DC2217",
     "name": "Ổ Cắm Điện Âm Tường 1 Lỗ Hàn Quốc Dosel | DC2217",
@@ -414,11 +412,11 @@
     "size": "Kích thước 120 x 70 mm | Hộp 10 cái",
     "material": "Nhựa ABS cao cấp",
     "colors": ["Trắng sáng"],
-    "description": "Công tắc điện Dosel sở hữu thiết kế hiện đại, phù hợp với mọi phong cách nội thất",
+    "description": "Ổ Cắm Điện Âm Tường Dosel sở hữu thiết kế hiện đại, phù hợp với mọi phong cách nội thất",
     "features": [
-      "Được chế tạo từ vật liệu chất lượng cao, công tắc điện Dosel có khả năng chịu nhiệt và chống cháy tốt",
-      "Công tắc điện Dosel giúp bạn dễ dàng kiểm soát các thiết bị điện trong nhà, từ đèn chiếu sáng, quạt, điều hòa",
-      "Lựa chọn lý tưởng cho các văn phòng, nhà xưởng và cơ sở kinh doanh, công tắc điện Dosel giúp tối ưu hóa việc quản lý điện năng"
+      "Được chế tạo từ vật liệu chất lượng cao, ổ Cắm Điện Âm Tường Dosel có khả năng chịu nhiệt và chống cháy tốt",
+      "Ổ Cắm Điện Âm Tường Dosel giúp bạn dễ dàng kiểm soát các thiết bị điện trong nhà, từ đèn chiếu sáng, quạt, điều hòa",
+      "Lựa chọn lý tưởng cho các văn phòng, nhà xưởng và cơ sở kinh doanh, ổ Cắm Điện Âm Tường Dosel giúp tối ưu hóa việc quản lý điện năng"
     ]
   }
 ]

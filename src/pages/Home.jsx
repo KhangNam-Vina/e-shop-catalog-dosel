@@ -10,7 +10,7 @@ export default function Home() {
     <>
       {/* Các section sẽ nằm theo thứ tự từ trên xuống dưới */}
       <Hero />
-      <BrandIntro />
+      {/* <BrandIntro /> */}
       <ProductGrid />
       <FeatureSection />
       <ContactSection />
